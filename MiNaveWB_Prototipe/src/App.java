@@ -549,8 +549,8 @@ public class App extends JFrame {
 	private void enviarReportePorEmail() {
 	    // Configuración para el servidor SMTP (puedes ajustar esto según tu proveedor de correo)
 	    String host = "smtp.gmail.com";
-	    String username = "e.yazeck@gmail.com";
-	    String password = "nfde yqqn tpbf fczh";
+	    String username = "emailhere";
+	    String password = "passwordapp";
 	    int port = 587;
 
 	    // Propiedades de la sesión de correo
